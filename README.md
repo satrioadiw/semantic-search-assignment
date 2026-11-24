@@ -1,9 +1,6 @@
-from google.colab import files
-files.download('README.md')
-
-Nama: SATRIO ADI WIBOWO
-Absen: AI-70
-Program: REWORK AI ENGINEERING BOOTCAMP
+- Nama: SATRIO ADI WIBOWO
+- Absen: AI-70
+- Program: REWORK AI ENGINEERING BOOTCAMP
 
 # E-Commerce FAQ Semantic Search & RAG Assistant
 
